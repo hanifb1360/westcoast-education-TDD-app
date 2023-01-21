@@ -1,0 +1,33 @@
+.container {
+  width: 100%;
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.list {
+  padding: 20px;
+  background-color: rgba(51, 51, 51);
+  list-style: none;
+  color: white;
+  border-radius: 20px;
+}
+.listItem {
+  margin-top: 10px;
+  border-bottom: 1px solid white;
+}
+a {
+  margin-top: 15px;
+  text-decoration: none;
+  color: rgb(129, 157, 157);
+}
+
+
+a:hover {
+  border-radius: 20px;
+  color: #cdfeaa;
+  padding: 5px;
+}
+

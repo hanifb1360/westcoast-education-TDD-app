@@ -1,0 +1,37 @@
+.container {
+
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  
+}
+.title {
+  font-size: 3rem;
+  font-weight: 600;
+  margin-top: 40vh;
+  color: rgb(51, 74, 93);
+}
+
+
+.listWrapper {
+  padding: 20px;
+ 
+  border-radius: 20px;
+ 
+  
+}
+
+@media (max-width: 950px) {
+  .title {
+    font-size: 2rem;
+  }
+}
+@media (max-width: 600px) {
+  .title {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "courseName": "JavaScript 4",
+      "courseNumber": "10946",
+      "courseLength": "5 weeks",
+      "courseStartDate": "2023-02-01",
+      "courseDescription": "Learn the latest features and advancements in JavaScript, including new syntax and language enhancements. This course covers advanced topics such as asynchronous programming, working with modules, and utilizing JavaScript in a server-side environment."
+    },
+    {
+      "id": 2,
+      "courseName": "Interacting with CMS",
+      "courseNumber": "16840",
+      "courseLength": "5 weeks",
+      "courseStartDate": "2023-02-01",
+      "courseDescription": "Learn how to interact with a content management system (CMS) using JavaScript. This course covers topics such as working with APIs, integrating with different CMS platforms, and automating tasks using JavaScript."
+    },
+    {
+      "id": 3,
+      "courseName": "JavaScript as a Backend Language",
+      "courseNumber": "11294",
+      "courseLength": "5 weeks",
+      "courseStartDate": "2023-02-01",
+      "courseDescription": "Explore the use of JavaScript as a server-side programming language. This course covers topics such as setting up a Node.js environment, working with databases, and creating a RESTful API using JavaScript."
+    },
+    {
+      "id": 4,
+      "courseName": "HTML and CSS",
+      "courseNumber": "64730",
+      "courseLength": "5 weeks",
+      "courseStartDate": "2023-02-01",
+      "courseDescription": "Learn the basics of HTML and CSS and how to use them to create a beautiful and responsive website. This course covers topics such as HTML structure, CSS styling, and responsive design principles."
+    },
+    {
+      "id": 1674238945978,
+      "courseName": "react",
+      "courseNumber": "12",
+      "courseLength": "23",
+      "courseStartDate": "2023-01-21",
+      "courseDescription": "react"
+    }
+  ],
+  "teachers": [
+    {
+      "id": 1,
+      "firstName": "John",
+      "lastName": "Smith",
+      "social_security_number": "123-45-6789",
+      "email": "john.smith@westcoast-edu.se",
+      "phoneNumber": "1234567890",
+      "competence_areas": ["Algorithms", "Data Structures"]
+    },
+    {
+      "id": 2,
+      "firstName": "Jane",
+      "lastName": "Doe",
+      "social_security_number": "993-45-6701",
+      "email": "jane.doe@westcoast-edu.se",
+      "phoneNumber": "0987654321",
+      "competence_areas": ["Machine Learning", "Natural Language Processing"]
+    },
+    {
+      "id": 3,
+      "firstName": "Robert",
+      "lastName": "Johnson",
+      "social_security_number": "143-65-3389",
+      "email": "robert.johnson@westcoast-edu.se",
+      "phoneNumber": "1010101010",
+      "competence_areas": ["Computer Networks", "Operating Systems"]
+    },
+    {
+      "id": 4,
+      "firstName": "Michael",
+      "lastName": "Williams",
+      "social_security_number": "973-25-6229",
+      "email": "michael.williams@westcoast-edu.se",
+      "phoneNumber": "1212121212",
+      "competence_areas": ["Database Systems", "Software Engineering"]
+    },
+    {
+      "id": 1674240314422,
+      "firstName": "Hanif",
+      "lastName": "Bahari",
+      "social_security_number": "4356728992",
+      "competence_areas": "react",
+      "phoneNumber": "0765760186",
+      "email": "hanif.bahari@gmail.com"
+    }
+  ]
+}
